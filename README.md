@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Harsha Kota's Gif](./githubBanner.gif)
+
 <!--
 **kota-harsha/kota-harsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
