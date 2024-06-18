@@ -2,7 +2,7 @@
 
 <h2>Let's Peer Into Harsha Kota's Mind 🧐</h2>
 
-It all started when my mom met my dad and they fell in love and had me. Hi, I’m Harsha, and my life is kinda crazy 🤪 I am an undergraduate student at the University of Texas at Dallas. I am an active learner that is always facinates with emerging technologies. Outside of Tech, I like to break a leg 🎭 and break a sweat 👟
+It all started when my mom met my dad and they fell in love and had me. Hi, I’m Harsha, and my life is kinda crazy 🤪 I am an undergraduate student at the University of Texas at Dallas. I am an active learner who is always fascinated by emerging technologies. Outside of Tech, I like to break a leg 🎭 and break a sweat 👟
 
 <h2>📫 How to reach me</h2>
 <p align="left">
@@ -13,9 +13,9 @@ It all started when my mom met my dad and they fell in love and had me. Hi, I’
 
 <h2>💻 I'm Currently Working On</h2>
 
-- Course Work 📚 Software Engineering, Operating Systems, Digital Logic
-- Certifications 📜 Amazon Web Services, Machine Learning
-- Projects 👨🏽‍💻 Personal Portfolio, ROS2 Challenges
+- Course Work 📚 Database Systems, Intro. to Machine Learning, Advanced Algorithm Design
+- Certifications 📜 AWS Solution Architect, The Construct Robotics Developer
+- Projects 👨🏽‍💻 Personal Portfolio, ROS2 Challenges, Django based Web-Apps, MLOps
 
 <!--
 https://rahuldkjain.github.io/gh-profile-readme-generator/
