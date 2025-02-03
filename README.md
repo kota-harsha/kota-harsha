@@ -13,7 +13,7 @@ It all started when my mom met my dad and they fell in love and had me. Hi, I’
 
 <h2>💻 I'm Currently Working On</h2>
 
-- Course Work 📚 Database Systems, Intro. to Machine Learning, Advanced Algorithm Design
+- Course Work 📚 Computer Vision, Automata Theory, CS Capstone Project
 - Certifications 📜 AWS Solution Architect, The Construct Robotics Developer
 - Projects 👨🏽‍💻 Personal Portfolio, ROS2 Challenges, Django based Web-Apps, MLOps
 
